@@ -1,0 +1,6 @@
+fastapi==0.136.0
+uvicorn==0.46.0
+httpx==0.28.1
+numpy==1.26.4
+music21==8.1.0
+verovio==6.4.0

@@ -1,0 +1,123 @@
+{
+  "avant": [
+    {
+      "parallelFifths": 0,
+      "parallelOctaves": 0,
+      "directOuter": 0,
+      "largeLeaps": 1,
+      "crossings": 0,
+      "unisons": 4,
+      "wideUpper": 1,
+      "incompleteTriads": 1
+    },
+    [
+      {
+        "kind": "unisons",
+        "bar": 5,
+        "attack": 1,
+        "voices": [
+          "Haute-contre",
+          "Taille"
+        ],
+        "notes": [
+          "D4",
+          "D4"
+        ]
+      },
+      {
+        "kind": "largeLeaps",
+        "bar": 5,
+        "attack": 1,
+        "voices": [
+          "Dessus"
+        ],
+        "notes": [
+          "E5",
+          "F#4"
+        ]
+      },
+      {
+        "kind": "unisons",
+        "bar": 6,
+        "attack": 1,
+        "voices": [
+          "Haute-contre",
+          "Taille"
+        ],
+        "notes": [
+          "D4",
+          "D4"
+        ]
+      },
+      {
+        "kind": "unisons",
+        "bar": 7,
+        "attack": 1,
+        "voices": [
+          "Haute-contre",
+          "Taille"
+        ],
+        "notes": [
+          "D4",
+          "D4"
+        ]
+      },
+      {
+        "kind": "incompleteTriads",
+        "bar": 7,
+        "attack": 1,
+        "voices": [
+          "Dessus",
+          "Haute-contre",
+          "Taille",
+          "Basse"
+        ],
+        "notes": [
+          "B4",
+          "D4",
+          "D4",
+          "B2"
+        ]
+      },
+      {
+        "kind": "wideUpper",
+        "bar": 7,
+        "attack": 2,
+        "voices": [
+          "Dessus",
+          "Haute-contre"
+        ],
+        "notes": [
+          "F#5",
+          "D4"
+        ]
+      },
+      {
+        "kind": "unisons",
+        "bar": 7,
+        "attack": 2,
+        "voices": [
+          "Haute-contre",
+          "Taille"
+        ],
+        "notes": [
+          "D4",
+          "D4"
+        ]
+      }
+    ]
+  ],
+  "apres": [
+    {
+      "parallelFifths": 0,
+      "parallelOctaves": 0,
+      "directOuter": 0,
+      "largeLeaps": 0,
+      "crossings": 0,
+      "unisons": 0,
+      "wideUpper": 0,
+      "incompleteTriads": 0
+    },
+    []
+  ]
+}

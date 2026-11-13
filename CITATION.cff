@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the archived software release."
+title: "Charpentier text to SATB"
+type: software
+version: "1.0.0"
+date-released: 2026-11-13
+doi: 10.5281/zenodo.24190673
+repository-code: "https://github.com/captaldebuch/charpentier-text-to-satb"
+authors:
+  - family-names: Fresquet
+    given-names: Xavier
+    affiliation: Sorbonne Université
+    orcid: "https://orcid.org/0000-0001-8362-9485"
