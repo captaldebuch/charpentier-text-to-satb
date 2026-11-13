@@ -26,3 +26,7 @@ Install pytest and run `python -m pytest -q`. Four source-score round-trip tests
 The software draws on the [CSMD](https://doi.org/10.5281/zenodo.20450425) and [PDMX](https://doi.org/10.5281/zenodo.15571083) collections. Source-specific rights and contributor credits accompany each indexed score. OpenAI Codex assisted with software implementation, testing and technical documentation.
 
 Archived release and technical report: [10.5281/zenodo.24190673](https://doi.org/10.5281/zenodo.24190673).
+
+## Licenses
+
+The project code is licensed under [MIT](LICENSE). The accompanying technical report (PDF and DOCX) by Xavier Fresquet is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Individual score encodings and derived catalogue entries carry the source-specific rights and credits recorded in charpentier-library.json.
